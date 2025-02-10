@@ -14,13 +14,13 @@ BMS 프로젝트에서 시계열 데이터를 활용한 TCN 모델을 적용해 
 ---
 
 ## 🚀 프로젝트 (Projects)  
-### 🔹 **Battery Management System (BMS) 개선 프로젝트**  
+### 🔹 [Battery Management System (BMS) 개선 프로젝트]((https://github.com/sujinee01/TCN))**  
 🛠 **기술 스택:** Python, Time-Series Modeling (TCN), 데이터 분석  
 📌 **설명:** 시계열 데이터를 활용한 TCN 모델을 적용하여 배터리 상태 예측 성능을 RMSE 3.8%로 개선  
 
-### 🔹 **반도체 테스트 및 분석 프로젝트**  
-🛠 **기술 스택:** Oscilloscope, Protocol Analyzer, 데이터 분석  
-📌 **설명:** 반도체 테스트 장비를 활용한 분석 및 결함 검출을 수행하며, 데이터 기반 평가 및 개선 진행  
+### 🔹 **상품 접수 및 배송 시스템**  
+🛠 **기술 스택:** Javascript,HTML, CSS, MYSQL, API 연결
+📌 **설명:** 재고 상황에 따라 상품을 접수 및 배송 받을 수 있는 프로그램 개발
 
 ### 🔹 **스포츠 마케팅 & 데이터 분석 연구**  
 🛠 **기술 스택:** Python, Pandas, 데이터 시각화  
