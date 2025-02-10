@@ -64,7 +64,7 @@ BMS 프로젝트에서 시계열 데이터를 활용한 TCN 모델을 적용해 
 ---
 
 ### 📬 About Me  
-📧 **Email:** leesu4675@naver.com
+📧 **Email:** leesu4675@naver.com  
 📚 **Blog/GitBook:** [링크 입력]  
 📌 **Notion:** [링크 입력]  
 🔗 **LinkedIn:** [링크 입력]  
