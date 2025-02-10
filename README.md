@@ -19,7 +19,7 @@ BMS 프로젝트에서 시계열 데이터를 활용한 TCN 모델을 적용해 
 📌 **설명:** 시계열 데이터를 활용한 TCN 모델을 적용하여 배터리 상태 예측 성능을 RMSE 3.8%로 개선  
 
 ### 🔹 [ROBO-CAR) 개선 프로젝트](https://github.com/sujinee01/robo-car)
-🛠 **기술 스택:** Javascript, HTML, CSS, MYSQL, API 연결
+🛠 **기술 스택:** Javascript, HTML, CSS, MYSQL, API 연결 '/n'
 📌 **설명:** 재고 상황에 따라 상품을 접수 및 배송 서비스를 제공하는 웹사이트 개발 / 자동차 배정 및 실시간 조회 시스템
 
 ### 🔹 **스포츠 마케팅 & 데이터 분석 연구**  
