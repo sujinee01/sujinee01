@@ -13,6 +13,35 @@ BMS 프로젝트에서 시계열 데이터를 활용한 TCN 모델을 적용해 
 
 ---
 
+## 🚀 프로젝트 (Projects)  
+### 🔹 **Battery Management System (BMS) 개선 프로젝트**  
+🛠 **기술 스택:** Python, Time-Series Modeling (TCN), 데이터 분석  
+📌 **설명:** 시계열 데이터를 활용한 TCN 모델을 적용하여 배터리 상태 예측 성능을 RMSE 3.8%로 개선  
+
+### 🔹 **반도체 테스트 및 분석 프로젝트**  
+🛠 **기술 스택:** Oscilloscope, Protocol Analyzer, 데이터 분석  
+📌 **설명:** 반도체 테스트 장비를 활용한 분석 및 결함 검출을 수행하며, 데이터 기반 평가 및 개선 진행  
+
+### 🔹 **스포츠 마케팅 & 데이터 분석 연구**  
+🛠 **기술 스택:** Python, Pandas, 데이터 시각화  
+📌 **설명:** SK Knights의 팬 경험 분석을 기반으로 스포츠 마케팅 전략 연구  
+
+---
+
+## 🎯 현재 목표  
+✔ **Continental Automotive Electronics TEST 엔지니어 인턴십 참여 중(~6/30)**  
+✔ **품질 테스트 및 데이터 분석 관련 R&D 직무 탐색**  
+✔ **영어 실력 향상을 위한 꾸준한 학습**  
+✔ **알고리즘 문제 해결 능력 강화**  
+
+## 🎓 교육 (Education)  
+### 📚 **학위 과정**  
+🎓 **전자전기공학부 전공** (동국대학교)  
+
+### 📚 **수강한 교육 과정**  
+- **프론트엔드 개발자** (Multi-Campus)  
+---
+
 ### 🛠 Tech Stacks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,26 +51,15 @@ BMS 프로젝트에서 시계열 데이터를 활용한 TCN 모델을 적용해 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
----
-
 ### 🔧 Tools  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujinee01&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinee01&layout=compact&theme=radical)
-
----
-
-### 🏆 Algorithm & Problem Solving
-🥇 **Gold Level** @ [Baekjoon Online Judge](https://www.acmicpc.net/)  
-- Solved: **XXX problems**
-- Rating: **X.XXX**
-- Continuous improvement on algorithmic thinking!
 
 ---
 
