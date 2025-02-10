@@ -1,5 +1,3 @@
-## Hi there, I'm [sujinee01]! 👋  
-
 💡 **Aspiring Software Engineer | Data Enthusiast | Problem Solver**
 안녕하세요! 끊임없이 도전하고 성장하는 엔지니어, 이수진입니다.
 저는 전자공학을 전공하며, 소프트웨어 개발과 데이터 분석을 통해 문제를 해결하는 것을 좋아하는 개발자입니다.  
