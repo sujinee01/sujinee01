@@ -57,7 +57,7 @@ BMS 프로젝트에서 시계열 데이터를 활용한 TCN 모델을 적용해 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
-### 📊 GitHub Status
+### 📊 GitHub Insights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujinee01&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinee01&layout=compact&theme=radical)
 
