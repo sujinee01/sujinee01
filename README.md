@@ -24,8 +24,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujinee01&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujinee01&layout=compact&theme=radical)
 
 ---
 
